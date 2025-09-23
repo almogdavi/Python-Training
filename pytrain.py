@@ -6,4 +6,4 @@ def number (x,y) :
     return
         print ("the numbers are not equal")
 
-number(x=5, y=9)
+number(x=5 , y=9)
