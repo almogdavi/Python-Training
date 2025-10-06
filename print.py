@@ -3,6 +3,6 @@ def name(thename):
     kingname = thename + " king"
     print(kingname)
 
-name(almog)
-print(kingname)
-    
+#this is the code practice
+name("almog")
+
