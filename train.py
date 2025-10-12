@@ -35,7 +35,13 @@ elif x < y:
 else:
     print(f"{x} and {y} is equal")
 
+print("444 now or and xor training")
 
+number = 100
 
+if number < 0 or number > 100:
+    print(F"{number} too small number")
+else:
+    print(f"{number} too big number")
 
 
