@@ -44,4 +44,9 @@ if number < 0 or number > 100:
 else:
     print(f"{number} too big number")
 
+print("something else training")
+s = "hello"
+print(s)
+bigs = s.upper()
+print(bigs)
 
