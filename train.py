@@ -50,3 +50,17 @@ print(s)
 bigs = s.upper()
 print(bigs)
 
+print("hey "*3)
+
+a = [1,2,3]
+a.append(4)
+print(a)
+
+name = input("what your name? ")
+print("nice to meet you" ,name)
+
+age = int(input("how old are you? "))
+print("in 5 years you will be",age + 5)
+
+agei = input("how old? ")
+print(age, "is very young")
